@@ -1147,6 +1147,11 @@ ajv@^6.5.5:
     json-schema-traverse "^0.4.1"
     uri-js "^4.2.2"
 
+amd-loader@^0.0.8:
+  version "0.0.8"
+  resolved "https://registry.yarnpkg.com/amd-loader/-/amd-loader-0.0.8.tgz#1022928040e567e8e6a6fb58bda052f819189206"
+  integrity sha1-ECKSgEDlZ+jmpvtYvaBS+BkYkgY=
+
 ansi-escapes@^4.2.1:
   version "4.3.0"
   resolved "https://registry.yarnpkg.com/ansi-escapes/-/ansi-escapes-4.3.0.tgz#a4ce2b33d6b214b7950d8595c212f12ac9cc569d"
