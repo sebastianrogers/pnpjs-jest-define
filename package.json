@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-app",
+  "version": "1.0.0",
+  "description": "Sample nodejs app using PnPjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@pnp/nodejs-commonjs": "^2.0.2-5",
+    "@pnp/sp-commonjs": "^2.0.2-5",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.7.7",
+    "@babel/preset-env": "^7.7.7",
+    "babel-core": "^7.0.0-bridge.0",
+    "babel-eslint": "^10.0.3",
+    "babel-loader": "^8.0.6",
+    "babel-jest": "^25.1.0",
+    "jest": "^25.1.0"
+  }
+}
